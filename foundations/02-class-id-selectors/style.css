@@ -1,0 +1,22 @@
+*{
+    font-family: sans-serif;
+}
+
+.odd{
+    background-color: rgb(236, 151, 151);
+}
+
+#even1{
+    color: blue;
+    font-size: 28px;
+}
+
+#even2{
+    font-weight: bold;
+    background-color: rgb(87, 197, 87);
+}
+
+
+.big{
+    font-size: 20px;
+}
